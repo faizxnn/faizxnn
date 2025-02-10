@@ -18,5 +18,5 @@
 </div>
 
 
-
+Hi, I'm Faizan. I'm a Software Developer and current Machine Learning student @ Georgia Tech.
 
