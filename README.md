@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </div>
 
-<p align="center" style="color: #FF69B4; font-family: 'Arial', sans-serif;">
+<p align="center" style="color: #FF69B4; font-family: 'Arial', sans-serif; margin-top: 20px; margin-bottom: 20px;">
   Hi, I'm Faizan. I'm a Software Developer and current Machine Learning student @ Georgia Tech.
 </p>
