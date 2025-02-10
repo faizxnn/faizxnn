@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="[https://via.placeholder.com/1500x500/000000/FF69B4?text=Your+Name](https://www.google.com/imgres?q=hokusai%20mount%20fuji&imgurl=https%3A%2F%2Fwww.artelino.com%2Fauctionimages%2Fitems%2F53644g1.jpg&imgrefurl=https%3A%2F%2Fwww.artelino.com%2Farticles%2Fhokusai-36-views-fuji.asp&docid=0gepJWP9iTeQ6M&tbnid=Sp-6-YTC5VOQ9M&vet=12ahUKEwin4aO6vbiLAxXL4ckDHbl_DQ4QM3oECBwQAA..i&w=1474&h=1000&hcb=2&ved=2ahUKEwin4aO6vbiLAxXL4ckDHbl_DQ4QM3oECBwQAA)" alt="LinkedIn Banner" width="100%">
-</div>
+
 
 <h1 align="center" style="color: #FF69B4; font-family: 'Arial', sans-serif;">Faizan Hussain</h1>
 
@@ -22,11 +20,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </div>
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanlaflames&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
 
 
 
