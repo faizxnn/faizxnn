@@ -1,5 +1,3 @@
-
-
 <h1 align="center" style="color: #FF69B4; font-family: 'Arial', sans-serif;">Faizan Hussain</h1>
 
 <p align="center" style="color: #FF69B4; font-family: 'Arial', sans-serif;">
@@ -17,6 +15,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </div>
 
-
-Hi, I'm Faizan. I'm a Software Developer and current Machine Learning student @ Georgia Tech.
-
+<p align="center" style="color: #FF69B4; font-family: 'Arial', sans-serif;">
+  Hi, I'm Faizan. I'm a Software Developer and current Machine Learning student @ Georgia Tech.
+</p>
