@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #4F46E5; font-family: 'Inter', sans-serif; font-weight: 700; letter-spacing: -0.05em;">
-  Faizan Hussain 👨🏽‍💻</h1>
+  Faizan Hussain </h1>
 
 <p align="center" style="color: #FF69B4; font-family: 'Arial', sans-serif;">
   📧 <a href="mailto:fh@asu.edu" style="color: #FF69B4; text-decoration: none;">fh@asu.edu</a> | 
