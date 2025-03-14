@@ -2,8 +2,7 @@
   Faizan Hussain </h1>
 
 <p align="center" style="color: #FF69B4; font-family: 'Arial', sans-serif;">
-  📧 <a href="mailto:fh@asu.edu" style="color: #FF69B4; text-decoration: none;">fh@asu.edu</a> | 
-  <a href="mailto:fh@gatech.edu" style="color: #FF69B4; text-decoration: none;">fh@gatech.edu</a>
+  📧 <a href="mailto:fh@gatech.edu" style="color: #FF69B4; text-decoration: none;">fh@gatech.edu</a>
 </p>
 
 <section align="center" style="max-width: 600px; margin: 32px auto; padding: 24px; border-radius: 16px; background: #F8FAFC;">
